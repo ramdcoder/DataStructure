@@ -3,7 +3,7 @@
 1. Arrays
     - Array insertion, Deletion, Search, Get Elements
     - Merging Two Arrays
-    - ArrayList implementation of Collection Class.
+    - [ArrayList](https://www.flowerbrackets.com/arraylist-in-java/) implementation of Collection Class.
     
 2. Linked List
     - LinkedList implementation of Collection Class.
@@ -13,12 +13,12 @@
     - Binary Search Implementaion
     
 4. Sorting Algorithms
-    - Bubble Sort
-    - Insertion Sort
+    - [Bubble Sort](https://www.flowerbrackets.com/bubble-sort-java/)
+    - [Insertion Sort](https://www.flowerbrackets.com/insertion-sort-java/)
     - Selection Sort
-    - Quick Sort 
+    - [Quick Sort](https://www.flowerbrackets.com/quicksort-java/)
     - Non-Recursive Quick Sort
-    - Merge Sort
+    - [Merge Sort](https://www.flowerbrackets.com/merge-sort-java/)
     - Tim Sort
  5. Stack
     - Stack Implementation
